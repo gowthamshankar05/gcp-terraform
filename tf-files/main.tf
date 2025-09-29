@@ -1,5 +1,5 @@
 resource "google_storage_bucket" "my_bucket" {
-  name          = "github.com/gowthamshankar05/gcp-terraform"
+  name          = "github.com_gowthamshankar05_gcp-terraform"
   location      = "US"
   force_destroy = true
 
